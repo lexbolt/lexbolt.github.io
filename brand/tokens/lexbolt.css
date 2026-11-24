@@ -1,0 +1,18 @@
+/* Сгенерировано build.py LEXBOLT (brand/). Руками не править: менять build.py и пересобирать. */
+:root {
+  --lb-color-ink: #0E0D12;
+  --lb-color-graphite: #2A2A31;
+  --lb-color-gold: #E2B33A;
+  --lb-color-gold-light: #FFF0A8;
+  --lb-color-gold-deep: #87600F;
+  --lb-color-paper: #F5F4EF;
+  --lb-color-white: #FFFFFF;
+  --lb-color-muted: #B9B7C2;
+  --lb-font-display: "Archivo Black", "Montserrat", "Arial Black", Impact, sans-serif;
+  --lb-font-text: "Inter", "Segoe UI", system-ui, sans-serif;
+  --lb-font-mono: "JetBrains Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+  --lb-gold-metal: linear-gradient(90deg, #7A5510 0%, #E2B640 25%, #FFF3BF 45%, #D4A021 72%, #6E4B0C 100%);
+  --lb-mark-min-full: 48px;   /* меньше — плоский знак */
+  --lb-mark-min-flat: 16px;
+  --lb-lockup-min-height: 24px;
+}
